@@ -1,0 +1,1 @@
+# plugins-wc-disable-zoom-lightbox-features
